@@ -93,7 +93,3 @@ CSV RETERIVAL
 IMAGE RETERIVAL
 
 ![Screenshot 2025-03-25 131251](https://github.com/user-attachments/assets/3f893445-235a-4fd9-ac11-52aa6f6c6b28)
-
-VIDEO RETERIVAL
-
-![Screenshot 2025-03-25 144830](https://github.com/user-attachments/assets/60ca457b-0994-4483-ac85-3fc9ef66ad94)
